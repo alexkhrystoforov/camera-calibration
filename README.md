@@ -7,8 +7,8 @@ checkerboard patterns = 19x14 chessboard
 
 Error = GT - new parameter
 
-<img src="/charts/fx_error.png" width="440" height="350"/>        <img src="/charts/cx error.png" width="440" height="350"/> 
-<img src="/charts/fy error.png" width="440" height="350"/>        <img src="/charts/cy error.png" width="440" height="350"/> 
+<img src="/charts/fx_error.png" width="340" height="270"/>        <img src="/charts/cx error.png" width="340" height="270"/> 
+<img src="/charts/fy error.png" width="340" height="270"/>        <img src="/charts/cy error.png" width="340" height="270"/> 
 
 Error decreases respectively with the new dataset. I think dataset = 60-70 is enough to get ‘good’ parameters. Bigger dataset is not boost well and it’s hard to find new angles and requirement distance to monitor (good homorgaphies). If we take a photo from 3 meters - we probably don’t find our pattern.
 
